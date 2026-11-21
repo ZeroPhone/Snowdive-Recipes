@@ -1,5 +1,7 @@
 # GPS
 
+<img width="1825" height="1950" alt="hadimg_use_qwiic_5a" src="https://github.com/user-attachments/assets/c3886dbf-b36b-4a53-a274-08a52a01bc01" />
+
 You can connect a GPS (or any other UART peripheral) using the UART port on the Snowdive top board. The port is JST-SH 4p, and follows QWIIC pinout:
 
 1. GND
@@ -25,5 +27,3 @@ After this, you can open your UART using `screen` or `tio`. `tio` is the preferr
 - `sudo tio /dev/ttyS0 -b 9600` (port may differ)
 
 Use `Ctrl+T q` to exit `tio`. Use `Ctrl+A k y` to exit `screen`.
-
-<img width="1825" height="1950" alt="hadimg_use_qwiic_5a" src="https://github.com/user-attachments/assets/c3886dbf-b36b-4a53-a274-08a52a01bc01" />
