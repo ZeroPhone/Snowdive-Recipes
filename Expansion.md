@@ -41,7 +41,7 @@ A number of expansion boards have been designed for the expansion header, availa
 - [LTE board](https://github.com/HackModsOrg/lte-blepis) (work in progress)
 - [Audio codec board](https://github.com/CRImier/MyKiCad/tree/master/Ecosystems/blep_audio) (untested)
 - [I2C/SPI chip flashing board](https://github.com/CRImier/MyKiCad/tree/master/Ecosystems/blep_hackerboard) (untested)
-- [CatPatHat]() (untested)
+- [CatPatHat](https://github.com/ambraglow/CatPatHat) (untested)
 
 # Pinout
 
