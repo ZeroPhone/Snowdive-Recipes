@@ -1,5 +1,7 @@
 # TPM addon
 
+<img width="1800" height="868" alt="tpm2" src="https://github.com/user-attachments/assets/7e24362e-c0c3-4045-a794-269540dc5e64" />
+
 A `ST33KTPM2X32DKG9` (or compatible) chip from STSAFE-TPM series can be soldered onto the TPM footprint on the Snowdive ZERO board, exposing TPM capabilities to the Linux OS running on your SBC.
 It is connected to both I2C (main bus) and SPI (SPI0CS0) interfaces. It can be disconnected from either of the interfaces by moving/removing series resistors.
 
