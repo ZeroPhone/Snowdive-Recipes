@@ -17,12 +17,12 @@ As a result, you can simply use one of the numerous off-the-shelf displays and p
 `display&touch picture: front`
 `display&touch picture: back`
 
-For non-backlit displays, there's a 2-pin PWM backlight header available, already equipped with a current limit resistor.
+9. For non-backlit displays, there's a 2-pin PWM backlight header available, already equipped with a current limit resistor.
 
-There are two I2C headers available for touchscreen addition purposes, too. One is connected to I2C0 (pins 27/28) and another is connected to I2C1 (pins 3/5).
+10. There are two I2C headers available for touchscreen addition purposes, too. One is connected to I2C0 (pins 27/28) and another is connected to I2C1 (pins 3/5).
 Both provide two GPIOs: one INT-intended GPIO directly from the SBC, and one RST-intended GPIO directly from an IO expander.
 
-The 40-pin display header is wired for a specific (popular) kind of 40-pin ILI9488 display. However, it also lets you create FFC adapters to other kinds of FFC-adorned and solderable displays.
+11. The 40-pin display header is wired for a specific (popular) kind of 40-pin ILI9488 display. However, it also lets you create FFC adapters to other kinds of FFC-adorned and solderable displays.
 For that, it even adds I2C (I2C1) touchscreen support using a normally-unpopulated resistor 4-pack, which you can either populate or simply short-circuit-connect with thin wires, accomodating I2C touchscreen displays of your choice.
 
 Snowdive ZERO top board can in theory accomodate higher-res DSI displays, for instance, common 4" 800x480 color panels, like the one found on Tanmatsu.
