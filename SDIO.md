@@ -9,7 +9,7 @@ The SDIO link is only confirmed to function when used with a Raspberry Pi Zero 1
 It also requires turning off the onboard WiFi adapter in `/boot/firmware/config.txt` on 1W and 2W boards, as well as disabling the Bluetooth capability (since the SDIO interface is used to upload BT firmware, afaict).
 
 <img width="1712" height="1055" alt="sdio1" src="https://github.com/user-attachments/assets/88ac67d9-8d3e-4a83-bc13-9fd8b570bb12" />
-ESP32-C5 populated (TODO depopulated resistors are not shown correctly on this picture)
+_ESP32-C5 populated (TODO depopulated resistors are not shown correctly on this picture)_
 
 By default, the SDIO link is wired up to the top expansion 23-pin socket. Using the ESP32-C5 footprint with SDIO requires desoldering resistors R97,R98,R99,R100,R101,R102, as well as ESD diodes U10 and U23.
 
