@@ -1,11 +1,15 @@
 # Expansion port
 
+<img width="1614" height="493" alt="Screenshot_20261122_055745" src="https://github.com/user-attachments/assets/709584a3-229b-4143-ad22-7834d1c09a75" />
+
 The 23-pin expansion port on top of the Snowdive palmtop gives you an ability to do hardware hacking of all sorts:
 
 - prototype on breadboards/protoboards using jumper wires
 - reverse-engineer hardware
 - use one of the pre-designed expansion boards
 - create your own expansion boards
+
+<img width="1614" height="493" alt="Screenshot_20261122_055758" src="https://github.com/user-attachments/assets/f7524489-910f-4da2-815d-6775f5f199c7" />
 
 All signal pins are 3.3V level. All the pins are ESD-protected, and further current-limited/ringing-dampened by series resistors. All three available power rails are current-limited.
 
