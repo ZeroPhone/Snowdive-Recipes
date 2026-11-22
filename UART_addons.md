@@ -1,4 +1,4 @@
-# GPS
+# GPS and other UART peripherals
 
 <img width="1825" height="1950" alt="hadimg_use_qwiic_5a" src="https://github.com/user-attachments/assets/c3886dbf-b36b-4a53-a274-08a52a01bc01" />
 
