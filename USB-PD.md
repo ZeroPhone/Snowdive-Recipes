@@ -1,6 +1,8 @@
 # USB-PD interfaces
 
-There is one USB-PD interface (FUSB302B) available on the Snowdive board, muxed between SBC I2C and EC I2C if an addon (like the palmtop addon) is present,
+There is one USB-PD interface (FUSB302B) available on the Snowdive top board, connected to the one (and only) USB-C port on the board.
+
+It's muxed between SBC I2C and EC I2C if an addon (like the palmtop addon) is present,
 with an ability to connect the FUSB302 to SBC I2C at will by switching a GPIO on the I2C GPIO expander (the `mux_fusb` sysfs node).
 This FUSB302B supports dead battery mode (Rd presented when circuit powered off), so that the top board can be powered through its USB-PD port.
 
