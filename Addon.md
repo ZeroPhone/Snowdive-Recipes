@@ -28,4 +28,6 @@ The addon interface includes:
 Each digital pin is duplicated for resiliency, and there's plenty of GND. The FFC cabling is 30-pin 0.5mm, easy to find. You can find such cables of all sorts of different lengths on Amazon/Aliexpress/etc.
 If you want a more reliable source, [use LCSC](https://www.lcsc.com/category/86.html?scene=FULL_MATCH&globalKeyword=JS05A-30P&s_z=n_q_JS05A-30P) and search for `JS05A-30P`.
 
-Reference: [cables used on the Snowdive palmtop](https://www.lcsc.com/product-detail/C53190744.html?s_z=n_q_JS05A-30P).
+References:
+- [cables used on the Snowdive palmtop](https://www.lcsc.com/product-detail/C53190744.html?s_z=n_q_JS05A-30P).
+- [Snowdive palmtop addon design files](https://github.com/ZeroPhone/Snowdive-PCB/tree/main/bottom_board_palmtop/)
