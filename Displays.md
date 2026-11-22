@@ -14,8 +14,9 @@ It's completely up to you.
 
 As a result, you can simply use one of the numerous off-the-shelf displays and pay no mind to all the numerous options, or instead experiment with cool display technologies using Snowdive as a base. Completely up to you.
 
-`display&touch picture: front`
-`display&touch picture: back`
+<img width="1501" height="1158" alt="display_1" src="https://github.com/user-attachments/assets/5922f957-0ac8-4049-9cc8-d2fd7cb6e010" />
+
+<img width="1501" height="1158" alt="display_2" src="https://github.com/user-attachments/assets/e92a48a7-18e6-4dfc-832f-190c2aeaa9bc" />
 
 9. For non-backlit displays, there's a 2-pin PWM backlight header available, already equipped with a current limit resistor.
 
