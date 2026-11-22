@@ -13,3 +13,11 @@ Just a sample of things you can do with Snowdive hardware!
 - [Palmtop base](Palmtop.md) expansion interfaces
 - [SDIO](SDIO.md) hacking - ESP32-C5/C6 connection, or other SDIO addons (microSD/eMMC/etc.)
 - [USB-PD](USB-PD.md) interfaces, available both on the Snowdive CPU board and the `palmtop` addon board
+
+TODO:
+
+- Buttons and switches
+- Vibromotor and buzzer
+- Backlight/flashlight and extra PWM
+- USB port routing
+- Free GPIOs and GPIO substitution
