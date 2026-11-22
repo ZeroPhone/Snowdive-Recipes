@@ -21,3 +21,9 @@ TODO:
 - Backlight/flashlight and extra PWM
 - USB port routing
 - Free GPIOs and GPIO substitution
+
+<img width="1501" height="1158" alt="source5" src="https://github.com/user-attachments/assets/f3d67d5b-bda7-472b-a68d-7d8a648fdeb3" />
+<img width="1501" height="1158" alt="source1" src="https://github.com/user-attachments/assets/7b27935e-3e52-434c-a54d-45c9696ca2f4" />
+
+<img width="1620" height="1306" alt="source3" src="https://github.com/user-attachments/assets/c154db17-65f8-41c4-9bb9-f40b48fa687e" />
+<img width="1620" height="1306" alt="source4" src="https://github.com/user-attachments/assets/2aeaac0a-03fe-48b4-ae80-f1b4244d2a87" />
