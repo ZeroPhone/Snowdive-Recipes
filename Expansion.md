@@ -17,9 +17,9 @@ Power rails available on the expansion board:
 
 Interfaces available on the expansion board:
 
-- *GPIO*
-- *I2C*
-- *UART*
+- **GPIO**
+- **I2C**
+- **UART**
 - PWM
 - SPI
 - I2S
@@ -27,16 +27,16 @@ Interfaces available on the expansion board:
 
 Interface availability is heavily dependent on the SBC you use. Only GPIO/I2C/UART are guaranteed.
 All aforementioned interfaces are available when using the Pi Zero, but only some (generally I2C and UART) are available when using a different SBC.
-Until a compatibility table is compiled, you can start with the [SBC pin compatibility spreadsheets in Snowdive-Ports repository](https://github.com/ZeroPhone/Snowdive-Ports/tree/main/docs) to learn more.
+Until a compatibility table is compiled, you can start by mapping the pinout below to your own SBC, or check the [SBC pin compatibility spreadsheets in Snowdive-Ports repository](https://github.com/ZeroPhone/Snowdive-Ports/tree/main/docs) to learn more.
 
 # Existing addon boards
 
 A number of expansion boards have been designed for the expansion header, available for manufacturing or reuse for your own designs. Available expansion boards:
 
-- [LoRa board]() (untested)
-- [LTE board]() (work in progress)
-- [Audio codec board]() (untested)
-- [I2C/SPI chip flashing board]() (untested)
+- [LoRa board](https://github.com/HackModsOrg/lora-blepis) (untested)
+- [LTE board](https://github.com/HackModsOrg/lte-blepis) (work in progress)
+- [Audio codec board](https://github.com/CRImier/MyKiCad/tree/master/Ecosystems/blep_audio) (untested)
+- [I2C/SPI chip flashing board](https://github.com/CRImier/MyKiCad/tree/master/Ecosystems/blep_hackerboard) (untested)
 - [CatPatHat]() (untested)
 
 # Pinout
